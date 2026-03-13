@@ -1,0 +1,8 @@
+Student Name: John
+Student Number: 013454900
+GPA of student John is 2.0
+['uli101', 'ops245', 'ops445']
+Student Name: Jessica
+Student Number: 123456
+GPA of student Jessica is 2.5
+['ipc144', 'cpp244']
